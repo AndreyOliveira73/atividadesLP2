@@ -1,0 +1,29 @@
+/*vermelho, verde, amarelo, azul, ciano, rosa, roxo e marrom*/
+body {
+    font-size: 28px;
+}
+.vermelho {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+.amarelo {
+    color: yellow;
+}
+.azul {
+    color: blue;
+}
+.ciano {
+    color: cyan;
+}
+.rosa {
+    color: pink;
+}
+.roxo {
+    color: purple;
+}
+.marrom {
+    color: brown;
+}

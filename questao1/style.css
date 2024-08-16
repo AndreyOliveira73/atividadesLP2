@@ -1,0 +1,13 @@
+h2 {
+    color: blue;
+    font-size: 12px;
+
+}
+#primeiroH2 {
+    text-align: right;
+}
+#segundoH2 {
+    text-align: left;
+}
+
+
